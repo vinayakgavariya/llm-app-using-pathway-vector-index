@@ -78,6 +78,9 @@ This project demonstrates how to build a Large Language Model (LLM) application 
 - `requirements.txt`: List of dependencies.
 - `Dockerfile`: Docker configuration file for building the image.
 
+## Detailed Guide
+For a detailed, step-by-step guide to building this application, check out my blog post: [Explaining Vector Index and Building an LLM Application with Pathway on Windows.](https://vinayakgavariya.hashnode.dev/explaining-vector-index-and-building-an-llm-application-with-pathway-on-windows)
+
 ## Resources
 
 - [Pathway Developers](https://pathway.com/developers)
